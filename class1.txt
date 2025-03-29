@@ -18,6 +18,109 @@ Can write letters of the alphabet and copy short words ( own name, common nouns)
 
 
 Numeracy 
+
+Shapes :
+- Classifies objects into groups based on a few physical attributes such
+as shape, size and other observable properties including rolling and
+sliding
+- Develops and uses vocabulary of spatial relationship
+(Top, Bottom, On, Under, Inside, Outside, Above,
+Below, Near, Far, Before, After)
+
+Solids:
+- Collects objects from the surroundings having different sizes and shapes like pebbles, boxes, balls, cones, pipes, etc.
+- Sorts, Classifies and describes the objects on the basis of shapes, and other observable properties.
+- Observes and describes the way shapes affect movements like rolling and sliding.
+- Sorts 2 - D shapes such as flat objects made of card etc.
+
+Describes the physical features of various solids/shapes in her own language. For example- a ball rolls, a box slides, etc.
+
+NUMBERNESS , C OUNTING AND OPERATIONS OF 
+
+NUMBERS 1 - 9 AND ZERO :
+- Observes object and makes collections of objects. Arranges the collection of objects in order by
+	- Matching and
+	- One to one correspondence
+- Counts the number of objects in a collection.
+- Makes collection of objects corresponding to a specific
+number.
+- Recognises and speaks numbers from 1 to 9.
+- Uses numbers from 1 to 9 in counting and
+comparison. (Real objects and repeated events like
+clapping to be used for counting)
+- Reads and writes numerals from 1 to 9.
+- Adds and subtracts using real objects and pictures.
+- Adds and subtracts the numbers using symbols ‘+’
+and ‘-’.
+- Approaches zero through the subtraction pattern (such
+as 3 – 1 = 2, 3 – 2 = 1, 3 – 3 = 0).
+
+NUMBERS 10 - 20 :
+- Forms Number sequence from 10 to 20.
+- Counts objects using these numbers.
+- Groups objects into a group of 10s and single objects.
+- Develops the vocabulary of group of ‘tens’ and ‘ones’.
+- Shows the group of tens and ones by drawing.
+- Counts the number of tens and ones in a given number.
+- Writes the numerals for eleven to nineteen.
+- Writes numerals for ten and twenty.
+- Compares numbers upto 20.
+- Adds and subtracts numbers upto 20.
+
+NUMBERS 21 - 99 : 
+- Writes numerals for Twenty-one to Ninety nine.·
+Groups objects into tens and ones.
+- Draws representation for groups of ten and ones.
+- Groups a number orally into tens and ones.
+- Compares numbers.
+- Forms greatest and smallest numbers using given digits
+
+ARITHMETIC :
+ADDITION AND SUBTRACTION
+- Adds and subtracts numbers by writing them vertically in the following two cases:
+	– without regrouping.
+	– with regrouping.
+- Uses the place value in standard algorithm of addition and subtraction.
+- Solves addition and subtraction problems in different situations presented through pictures and stories.
+- Frames problems for addition and subtraction facts.
+- Estimates the sum of, and difference between, two given numbers.
+
+MULTIPLICATION
+- Explains the meaning of multiplication (as repeated addition).
+- Identifies the sign of multiplication.
+- Constructs the multiplication tables of 2, 3, 4, 5 and 10
+- Uses multiplication facts in situations.
+- Multiplies two digit numbers using standard algorithm and Lattice multiplication algorithm.
+
+DIVISION
+- Explains the meaning of division from context of equal grouping and sharing.
+- Relates division with multiplication.
+ Completes division facts:
+	– by grouping
+	– by using multiplication tables.
+- Divides a given number by another number in various ways such as:
+	– by drawing dots.
+	– by grouping.
+	- by using multiplication facts.
+	– by repeated subtraction.
+- Applies the four operations to life situations.
+- Frames word problems.
+- Estimates sums, differences and products of given numbers.
+- Uses informal and standard division algorithms.
+- Explains the meaning of factors and multiples.
+
+Construct addition facts up to 9 by using concrete objects. For example, to find 3+3 counts 3 steps forward from 3 and concludes that 3+3=6
+Subtracts numbers using 1 to 9. For example, the child takes out 3 objects from a collection of 9 objects and counts the remaining to conclude 9-3=6
+Solves day-to-day problems related to addition and subtraction of numbers up to 9
+Recognises numbers up to 99 and writes numerals
+
+MONEY :
+- Identifies common currency notes and coins.
+- Puts together small amounts of money.
+
+- Distinguishes between near, far, thin, thick, longer/taller, shorter, high, low.
+- Seriates objects by comparing their length
+
 Count objects up to 20.
 Reads and writes numbers up to 99.
 Using additions and subtraction of numbers up to 9 in daily life situations.
@@ -26,6 +129,23 @@ Estimates and verifies length using non-standard, non-uniform units
 Measurement 
 Identifies basic shapes: circle, square, triangle. Compares lengths or sizes by observation (big/small, longer/shorter).
 
+Estimates and measures short lengths using non uniform units like a finger, hand span, length of a forearm, footsteps, etc.
+
+Distinguishes between near, far, thin, thick, longer/taller, shorter, high, low. 
+	- Seriates objects by comparing their length
+
+Measures short lengths in terms of non-uniform units (in the context of games e.g. ‘Gilli Danda’ and ‘marble-games’).
+Estimates distance and length, and verifies using non-uniform units (e.g. hand span etc.)
+
+TIME:
+- Distinguishes between events occurring in time using terms -earlier and later.
+- Gets the qualitative feel of long & short duration, of school days v/s holidays.
+- Narrates the sequence of events in a day
+
+DATA HANDLING & PATTERNS :
+- Collects, represents and interprets simple data such as measuring the arm length or circumference of the head using a paper strip.
+- Observes, extends and creates patterns of shapes and numbers. For example, arrangement of shapes/ objects/ numbers, etc.
+- Collects, records (using pictures/numerals) and interprets simple information by looking at visuals. (For example in a picture of a garden the child looks at different flowers and draws inference that flowers of a certain colour are more).
 
 EVS : 
 Identifies family members, common fruits/animals. Knows uses of water, needs of the body ( food, sleep)

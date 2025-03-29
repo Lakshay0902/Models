@@ -31,6 +31,124 @@ Knows relationships in family and common professions. Understands need for food,
 Differentiates types of houses, transport; aware of local weather and seasons.
 
 Numeracy : 
+
+Shapes :
+- Creates shapes through paper folding, paper cutting.
+- Identifies 2-D shapes
+- Describes the various 2-D shapes by counting their sides, corners and diagonals.
+- Makes shapes on the dot-grid using straight lines and curves.
+- Creates shapes using tangram pieces.
+- Matches the properties of two 2-D shapes by observing their sides and corners (vertices).
+- Tiles a given region using a tile of a given shape.
+- Distinguishes between shapes that tile and that do not tile.
+- Intuitive idea of a map. Reads simple maps (not necessarily scaled)
+- Draws some 3D-objects.
+
+NUMBERS:
+
+UPTO 1000:
+- Reads and writes 3-digit numbers.
+- Expands a number w.r.t. place values.
+- Counts in different ways - starting from any number.
+Compares numbers.
+• Forms greatest and smallest
+numbers using given digits.
+
+ADDITION AND SUBTRACTION
+- Adds and subtracts numbers by writing them vertically in the following two cases:
+	– without regrouping.
+	– with regrouping.
+- Uses the place value in standard algorithm of addition and subtraction.
+- Solves addition and subtraction problems in different situations presented through pictures and stories.
+- Frames problems for addition and subtraction facts.
+- Estimates the sum of, and difference between, two given numbers. 
+
+MULTIPLICATION
+- Explains the meaning of multiplication (as repeated addition).
+- Identifies the sign of multiplication.
+- Constructs the multiplication tables of 2, 3, 4, 5 and 10
+- Uses multiplication facts in situations.
+- Multiplies two digit numbers using standard algorithm and Lattice multiplication algorithm.
+
+DIVISION
+- Explains the meaning of division from context of equal grouping and sharing.
+- Relates division with multiplication.
+- Completes division facts:
+	– by grouping
+	– by using multiplication tables.
+
+- Adds and subtracts single digit numbers and two digit numbers mentally.
+- Doubles two digit numbers mentally (result not exceeding two digits).
+
+onstructs and uses the multiplication facts (tables) of 2, 3, 4, 5 and 10
+in daily life situations
+
+Analyses and applies an appropriate number operation in the situation/
+context
+
+Explains the meaning of division facts by equal grouping/sharing and
+finds it by repeated subtraction. For example, 12÷3 can be explained as
+number of groups of 3 can be explained as number of groups of 3 to
+make 12 and finds it as 4 by repeatedly subtracting 3 from 12
+
+Adds and subtracts small amounts of money with or without regrouping
+
+MONEY :
+- Converts Rupee. to Paise using play money.
+- Adds and subtracts amounts using column addition, and subtraction without regrouping.
+- Makes rate charts and bills.
+
+Measurement :
+
+LENGTH
+- Appreciates the need for a standard unit.
+- Measures length using appropriate standard units of length by choosing between centimetres. and metres.
+- Estimates the length of given object in standard units and verifies by measuring.
+- Uses a ruler
+- Relates centimetre. and metre.
+
+WEIGHT
+- Weighs objects using non standardUnits.
+- Appreciates the conservation of weight.
+
+VOLUME
+- Measures and compares the capacity of different containers in terms of non-standard units.
+- Appreciates the conservation of volume.
+
+Compares the capacity of different containers in terms of non-standard
+units
+
+Adds and subtracts measures involving grams & kilograms in life
+situations
+
+TIME
+- Reads a calendar to find a particular day and date.
+- Reads the time correct to the hour.
+- Sequences the events chronologically.
+
+Identifies a particular day and date on a calendar
+
+Reads the time correctly to the hour using a clock/watch
+
+Data Handling :
+- Records data using tally marks.
+- Collects data and represents in terms of pictograph choosing appropriate scale and unit for display through pictographs.
+- Draws conclusions from the data by discussing with the teacher.
+
+Patterns :
+- Identifies simple symmetrical shapes and patterns.
+- Makes patterns and designs from straight lines and other geometrical shapes.
+- Identifies patterns in the numerals for odd and even numbers and in adding odd and even numbers.
+- Partitions a number in different ways.
+- Identifies patterns in his surroundings
+- Identifies patterns in multiplication with, and dividing by 10s.
+
+Extends patterns in simple shapes and numbers
+
+Records data using tally marks, represents pictorially and draws conclusions
+
+
+
 Reads and writes numbers 9999.
 Solves daily life problems using addition and subtraction of numbers up to
 999.
